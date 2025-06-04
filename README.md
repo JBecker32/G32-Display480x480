@@ -7,6 +7,6 @@ Das Gerät baut eine Bluetooth Verbindung zum G32 aus. Es liest dann diverse Dat
 
 Zusätzlich kann es eine Verbindung zu einem Meater+ (nur mit exakt diesem Typ getestet!) Grillthermometer aufbauen und auch dessen Daten (Kerntemperatur und Garraumtemperatur) anzeigen und zum HA weiterleiten. Die Auswertung der Temperaturen ist experimentell, da zum Bluetooth Protokoll des Meater+ mWn keine Doku zur Verfügung steht.
 
-Die Hardware des 4848S040 stellt einen Anschluß für einen externen Lithium Akku zur Verfügung. Leider ist in diesm Display keine Messung der Akkuspannung vorgesehen.
+Die Hardware des 4848S040 stellt einen Anschluß für einen externen Lithium Akku zur Verfügung. Leider ist in diesm Display keine Messung der Akkuspannung vorgesehen. Diese wird daher nicht überwacht!
 
 
