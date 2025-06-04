@@ -1,5 +1,5 @@
 # G32-Display480x480
-ESPHome Projekt für ein Guition 4848S040 Display zur Verwendung mit einem Otto Wilde G32 Gasgrill.
+ESPHome Projekt für ein Guition 4848S040 Display zur Verwendung mit einem Otto Wilde G32 Gasgrill. Wie man sieht, ist dies erst einmal ein Clone des G32-Display480x320 und der zur Verfügung stehende Bildschirm wird noch nicht sinnvoll ausgenutzt. Aber das kann ja noch kommen ...
 
 ![PXL_20250601_120205462 MP](https://github.com/user-attachments/assets/d4eb405b-1e8c-4dc2-9d72-04a028044d84)
 
