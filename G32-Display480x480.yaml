@@ -835,7 +835,7 @@ sensor:
             };
       - rtttl.play:
           rtttl: !lambda |-
-            if(x >= 100) {return ("")};            
+            if(x >= 100) {return ("");            
             } else {
             {return ("")};
             };      
