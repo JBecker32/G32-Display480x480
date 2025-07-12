@@ -498,7 +498,7 @@ lvgl:
         - label:
             id: battery_empty_label
             x: 220 
-            y: 4
+            y: 34
             styles: main_font_style
             text_color: 0xff0000
             text_align: CENTER
